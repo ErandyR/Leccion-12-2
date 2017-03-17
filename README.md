@@ -1,7 +1,7 @@
 #  COMANDOS UTILIZADOS
 ### //con este comando configuramos la identidad ante git
 ### git config --global user.name "nombre_de_usuario" // para configurarlo con nombre de usuario
-### git config --global user.email "tuemail@email.com" // para configurarlo con email
+### git config --global user.email "tu_email@email.com" // para configurarlo con email
 ### //para subir primera version
 ### git init //se utiliza solo una vez
 ### git add . // se reutiliza para volver a subir versiones
